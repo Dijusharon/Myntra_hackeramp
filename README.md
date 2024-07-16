@@ -18,24 +18,24 @@ The main goal of this recommendation system is to provide a personalized fashion
 
 ## Features
 
-1. Collaborative Filtering:
+*1. Collaborative Filtering:*
     Recommending trends based on similarities between users with similar tastes or preferences. This method leverages patterns in user behavior to suggest relevant trends.
 
-2. Content-Based Filtering:
+*2. Content-Based Filtering:*
     Recommending trends based on the attributes of the trends themselves, such as color, style, fabric, or designer. This method suggests trends that are similar to ones the user has liked or shown interest in.
 
-3. Seasonal and Regional Adaptation:
+*3. Seasonal and Regional Adaptation:*
     Considering seasonal variations and regional fashion preferences to tailor recommendations accordingly. For example, suggesting winter trends in colder climates or beachwear in coastal regions.
 
-4. Visual Search and Recognition:
+*4. Visual Search and Recognition:*
     Enabling users to search for trends using images or visual cues. This feature can identify similar trends based on pattern recognition or image analysis.
    Users can upload images of fashion products they like, and the system will recommend similar products based on the ResNet-based feature extraction.
 
-5. Personalized recommendations: 
+*5. Personalized recommendations:*
     The system provides personalized recommendations to users based on their preferences and past interactions with the website.
 
-6. Secure authentication: 
+*6. Secure authentication:*
     Firebase authentication is used to ensure that only authorized users can access the website.
 
-7. Interactive user interface: 
+*7. Interactive user interface:* 
     The system has an interactive user interface created using Reactjs and Bootstrap, making it easy for users to navigate and use the website.
