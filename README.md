@@ -13,4 +13,6 @@ Content Based Recommender System works on the principle of similar content. It r
 
 ## Goals of the project
 
-    The main goal of this project is to provide a personalized fashion recommendation system that can help users find fashion products that match their preferences. The system also aims to provide an interactive user interface that is easy to use and navigate.
+    iebwbqnfweufn
+
+The main goal of this project is to provide a personalized fashion recommendation system that can help users find fashion products that match their preferences. The system also aims to provide an interactive user interface that is easy to use and navigate.
