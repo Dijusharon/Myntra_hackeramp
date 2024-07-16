@@ -28,7 +28,7 @@ The main goal of this recommendation system is to provide a personalized fashion
     Considering seasonal variations and regional fashion preferences to tailor recommendations accordingly. For example, suggesting winter trends in colder climates or beachwear in coastal regions.
 
 *4. Visual Search and Recognition:*<br/>
-    Enabling users to search for trends using images or visual cues. This feature can identify similar trends based on pattern recognition or image analysis.
+                Enabling users to search for trends using images or visual cues. This feature can identify similar trends based on pattern recognition or image analysis.
    Users can upload images of fashion products they like, and the system will recommend similar products based on the ResNet-based feature extraction.
 
 *5. Personalized recommendations:*<br/>
