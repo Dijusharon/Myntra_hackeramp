@@ -28,7 +28,7 @@ The main goal of this recommendation system is to provide a personalized fashion
     Considering seasonal variations and regional fashion preferences to tailor recommendations accordingly. For example, suggesting winter trends in colder climates or beachwear in coastal regions.
 
 *4. Visual Search and Recognition:*<br/>
-                Enabling users to search for trends using images or visual cues. This feature can identify similar trends based on pattern recognition or image analysis.
+        Enabling users to search for trends using images or visual cues. This feature can identify similar trends based on pattern recognition or image analysis.
    Users can upload images of fashion products they like, and the system will recommend similar products based on the ResNet-based feature extraction.
 
 *5. Personalized recommendations:*<br/>
@@ -39,3 +39,30 @@ The main goal of this recommendation system is to provide a personalized fashion
 
 *7. Interactive user interface:* 
     The system has an interactive user interface created using Reactjs and Bootstrap, making it easy for users to navigate and use the website.
+
+## Tech Stack
+
+*Client:* React, Materil-UI, react-bootstrap
+
+*Server:* Python, Flask
+
+*Database:* Firebase
+
+
+# Screenshots of the trend system:<br/>
+![image](https://github.com/user-attachments/assets/d6b21a3b-cf4d-473f-a4af-717af3336304)<br/>
+![image](https://github.com/user-attachments/assets/4a9ff3de-eec1-4c5d-bec6-f6c339acbefd)<br/>
+![image](https://github.com/user-attachments/assets/56cb481c-1ce9-48d1-8632-c822408e1e42)<br/>
+![image](https://github.com/user-attachments/assets/68879a4a-50cb-418a-8c6f-46a241dd17c1)<br/>
+![image](https://github.com/user-attachments/assets/49848b48-a67e-438a-ae01-d854c4ff7858)<br/>
+![image](https://github.com/user-attachments/assets/fbd1d144-0aff-45c7-9c32-4c485ca8f873)<br/>
+![image](https://github.com/user-attachments/assets/b2096f6e-bc46-4f24-8d1f-9899b15ed432)<br/>
+![image](https://github.com/user-attachments/assets/86054584-e339-45a9-a756-14ab1fee8f33)<br/>
+
+
+
+
+
+
+
+
