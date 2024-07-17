@@ -48,6 +48,17 @@ Association Rules: Identifying products frequently bought together using techniq
 Cross-Selling Opportunities: Recommendations for complementary products based on purchase patterns.
 
 ## Screenshots of few analysis performed on the dataset
+![image](https://github.com/user-attachments/assets/1f7801fa-509b-4650-95cf-da9c0dded1b5)<br/>
+top 15 values based on price:<br/>
+![image](https://github.com/user-attachments/assets/4106b2ef-3732-4beb-9ef7-9f4cc8193227)<br/>
+Top 15 sellers:<br/>
+![image](https://github.com/user-attachments/assets/1f0b5646-a07f-407b-b4cf-d4b83bf8eea2)<br/>
+Top sold items<br/>
+![image](https://github.com/user-attachments/assets/17477384-6d71-46dc-9a70-bb71bc7846d6)<br/>
+
+
+
+
 
 # The Recommendation System<br/>
 
